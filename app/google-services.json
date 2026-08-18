@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785551716556",
+    "project_id": "ai-scamshield-2e75b",
+    "storage_bucket": "ai-scamshield-2e75b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785551716556:android:8c5ab2fadd216572ded269",
+        "android_client_info": {
+          "package_name": "com.example.omkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKyy2JiykNnVXloAd8wgup2Kh7FrtobU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
